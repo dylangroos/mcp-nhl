@@ -149,7 +149,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-Project Maintainer: [Your Name] - [your.email@example.com]
+Project Maintainer: Dylan Groos
 
 ---
 
